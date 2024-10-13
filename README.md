@@ -1,3 +1,3 @@
-# Mi primer README
+# Mi primer README.md
 
 Curso Git y GitHub freeCodeCamp
